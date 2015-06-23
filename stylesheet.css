@@ -1,0 +1,26 @@
+/*CSS stylesheet */
+
+body {
+	background-color: black;
+}
+
+
+img {
+	min-width: 98%;
+	
+	min-height: 100%;
+
+}
+
+#shutUp {
+	
+	width: 90px;
+	height: 20px;
+	background-color: white;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	border-radius: 6px;
+	text-align: center;
+	font-weight: bolder;
+}
